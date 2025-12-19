@@ -8,7 +8,7 @@
 body {
   color: #d1d7e0;
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
-  background: url(../imagens/back.png) fixed no-repeat;
+  background: url(../imagens/BACK.png) fixed no-repeat;
   background-size: cover;
   font-family: "Exo 2", sans-serif;
 }
@@ -353,3 +353,4 @@ h1 {
     text-align: justify;
   }
 }
+
