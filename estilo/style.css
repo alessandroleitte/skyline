@@ -323,7 +323,9 @@ h1 {
     width: 100%;
     margin: 10px;
   }
-
+   .galeria.ativo {
+    grid-template-columns: 1fr;
+  }
   .galeria img {
     width: 100%;
   }
@@ -358,6 +360,7 @@ h1 {
     text-align: justify;
   }
 }
+
 
 
 
