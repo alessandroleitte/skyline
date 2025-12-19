@@ -299,7 +299,8 @@ h1 {
 @media screen and (max-width: 800px) {
    .tela-inicial{
     width: 100vw;
-    height: 100vh;
+    height: 80vh;
+    margin-top: 10%;
   }
   .historia-conteudo1 {
     flex-wrap: wrap;
@@ -357,5 +358,6 @@ h1 {
     text-align: justify;
   }
 }
+
 
 
